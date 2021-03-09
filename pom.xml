@@ -8,7 +8,7 @@
   <name>SampleProject</name>
   <url>http://maven.apache.org</url>
 
-  <prppoerty>
+  <property>
     <sonar.projectKey>jenkins=sample</sonar.projectKey>
     <sonar.organisation></sonar.organisation>
     <sonar.host.rul>https:sonarcloud.io</sonar.host.url>
